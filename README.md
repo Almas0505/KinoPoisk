@@ -1,6 +1,6 @@
 # Movie Platform (Kinopoisk-like)
 
-This project is a movie platform similar to Kinopoisk, allowing users to search, rate, and review movies. It provides an intuitive interface for browsing films, viewing their details, and interacting with other users.
+This project is a movie platform similar to Kinopoisk, allowing users to search, rate, and review movies. It provides an intuitive interface for browsing films, viewing their details, and interacting with other users. The platform is built with **Node.js** and various modern web technologies.
 
 ## Features
 
@@ -12,6 +12,7 @@ This project is a movie platform similar to Kinopoisk, allowing users to search,
 
 ## Technologies Used
 
+- **Node.js**: JavaScript runtime used to build the backend of the application.
 - **Express**: A web framework for Node.js used to build the server-side logic.
 - **MongoDB & Mongoose**: For database management and schema modeling.
 - **EJS**: Embedded JavaScript templating for rendering dynamic HTML views.
@@ -20,3 +21,4 @@ This project is a movie platform similar to Kinopoisk, allowing users to search,
 - **bcrypt**: For securely hashing passwords.
 - **connect-mongo**: MongoDB session store for Express.
 - **Nodemon**: For automatic server restarts during development.
+
